@@ -11,4 +11,5 @@ nmap <leader>qq :quitall<CR>
 nmap <leader>qx :xa<CR>
 nnoremap <leader>fc :NvimTreeClose<CR>:bd!<CR>
 nnoremap <leader>fC :NvimTreeClose<CR>:bufdo bd<CR>
+nnoremap <esc> :noh<return><esc>
 ]])

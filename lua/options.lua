@@ -41,3 +41,6 @@ vim.o.scrolloff = 5
 vim.o.colorcolumn = '120'
 
 vim.opt.termguicolors = true
+
+require('solarized').set()
+
